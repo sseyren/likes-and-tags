@@ -1,0 +1,76 @@
+# Likes and Tags Plugin Portable Object Template (POT) file.
+msgid ""
+msgstr ""
+
+#: public/class-likes-and-tags-public.php:103
+msgid "Remove Like"
+msgstr ""
+
+#: public/class-likes-and-tags-public.php:105
+msgid "Like Post"
+msgstr ""
+
+#: public/class-likes-and-tags-public.php:108
+msgid "You must logged in to give a like."
+msgstr ""
+
+#: public/class-likes-and-tags-public.php:376
+msgid "Top Tags"
+msgstr ""
+
+#: public/class-likes-and-tags-public.php:376
+msgid "Page"
+msgstr ""
+
+#: public/class-likes-and-tags-public.php:378
+msgid "Name"
+msgstr ""
+
+#: public/class-likes-and-tags-public.php:379
+msgid "Likes"
+msgstr ""
+
+#: public/class-likes-and-tags-public.php:380
+msgid "Used"
+msgstr ""
+
+#: public/class-likes-and-tags-public.php:394
+msgid "Previous Page"
+msgstr ""
+
+#: public/class-likes-and-tags-public.php:395
+msgid "Next Page"
+msgstr ""
+
+#: public/class-likes-and-tags-public.php:399
+msgid "There are no liked tags yet."
+msgstr ""
+
+#: widgets/class-likes-and-tags-top-posts-widget.php:28
+msgid "Top Posts"
+msgstr ""
+
+#: widgets/class-likes-and-tags-top-posts-widget.php:29
+msgid "A Likes-and-Tags Top Posts widget."
+msgstr ""
+
+#: widgets/class-likes-and-tags-top-posts-widget.php:81
+msgid "likes"
+msgstr ""
+
+#: widgets/class-likes-and-tags-top-posts-widget.php:87
+msgid "There are no liked posts yet."
+msgstr ""
+
+#: widgets/class-likes-and-tags-top-posts-widget.php:102
+msgid "New title"
+msgstr ""
+
+#: widgets/class-likes-and-tags-top-posts-widget.php:108
+msgid "Title:"
+msgstr ""
+
+#: widgets/class-likes-and-tags-top-posts-widget.php:112
+msgid "List Size:"
+msgstr ""
+
